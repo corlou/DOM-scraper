@@ -1,0 +1,22 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Playing around with DOM for educational purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corlou/DOM-scraper.git"
+  },
+  "author": "corina <corina@danitt.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/corlou/DOM-scraper/issues"
+  },
+  "homepage": "https://github.com/corlou/DOM-scraper#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
